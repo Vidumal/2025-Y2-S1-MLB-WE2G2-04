@@ -6,24 +6,6 @@ We built a smart AI to tell if someone’s wearing a mask or not 😷. Perfect f
 
 ---
 
-## 🗂 Project Structure
-
-"2025-Y2-S1-MLB-WE2G2-04/"
-│
-├── README.md
-├── data/
-│ ├── raw/ # Original dataset(s)
-│ └── external/ # Any bonus datasets
-├── notebooks/
-│ ├── ITxxxxxx_Preprocessing_technique.ipynb # Member magic notebooks
-│ └── group_pipeline.ipynb # All preprocessing in one
-└── results/
-├── eda_visualizations/ # Pretty charts & plots
-├── logs/ # Optional logs for debugging
-└── outputs/ # Final processed dataset / features"
-
----
-
 ## 🖼 Dataset Details
 - **Total Images**: ~2,000  
 - **Classes**: `WithMask` vs `WithoutMask`  
