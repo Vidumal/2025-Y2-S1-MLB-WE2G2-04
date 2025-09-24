@@ -8,7 +8,7 @@ We built a smart AI to tell if someone’s wearing a mask or not 😷. Perfect f
 
 ## 🗂 Project Structure
 
-"2025-Y2-S1-MLB-WE2G2-04/
+"2025-Y2-S1-MLB-WE2G2-04/"
 │
 ├── README.md
 ├── data/
